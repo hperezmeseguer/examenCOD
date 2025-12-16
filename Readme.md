@@ -18,13 +18,13 @@ El paso fundamental es tener permisos de escritura sobre el repositorio remoto
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 ### Apartado 2
-
+Hecho en la web de Github
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
-
+Usamos git fetch
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
