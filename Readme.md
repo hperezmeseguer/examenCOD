@@ -28,10 +28,12 @@ Usamos git fetch
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
 ### Apartado 3
+Este es otro cambio hecho en la web
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+
 
