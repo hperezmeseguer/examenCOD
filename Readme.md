@@ -14,7 +14,9 @@ Hugo Pérez Meseguer
 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
-
+El paso fundamental es tener permisos de escritura sobre el repositorio remoto
+![img.png](img.png)
+![img_1.png](img_1.png)
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
