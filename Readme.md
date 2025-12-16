@@ -25,6 +25,8 @@ Hecho en la web de Github
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 Usamos git fetch
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
