@@ -35,5 +35,7 @@ Este es otro cambio hecho en la web
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+Con git pull cogemos los cambios hechos via web para que salgan en nuestro repositorio local
+![img_4.png](img_4.png)
 
 
